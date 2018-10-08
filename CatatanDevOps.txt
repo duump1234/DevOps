@@ -1,0 +1,9 @@
+ 
+
+Rule nya
+
+1. Git add . (titik itu artinya semua)
+2. Git commit -m "status"  (-m itu menambahkan untuk commend)
+3. Git Push (memasukkan file ke internet)
+
+
